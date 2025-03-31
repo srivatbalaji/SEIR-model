@@ -2,6 +2,9 @@
 
 This repository contains a Jupyter notebook that implements a modified SEIR (Susceptible, Exposed, Infected, Recovered) epidemiological model to predict COVID-19 spread with consideration for immunity decay.
 
+Link to [deck](https://docs.google.com/presentation/d/1yt59Hk_VmX83pHDD_Ftqbc7kNfxiRJXX1X7TCHhiWUc/edit#slide=id.g31d6bd9a6ad_0_12)
+
+
 ## Overview
 
 The model consists of two main parts:
